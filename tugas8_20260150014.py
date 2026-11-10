@@ -1,7 +1,3 @@
-"""tugas8_NIM.py - Program utama Sistem Monitoring Presisi IoT.
-Ganti 'NIM' pada nama file dengan NIM kamu (contoh: tugas8_20240001.py).
-"""
-
 import modul_sensor
 
 # Struktur data utama: list kosong berisi tuple (suhu, kelembaban)
