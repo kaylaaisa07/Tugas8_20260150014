@@ -1,5 +1,3 @@
-"""modul_sensor.py - Pustaka logika Sistem Monitoring Presisi IoT."""
-
 # Konstanta bertipe Tuple
 LOKASI = ("Kampung Anggur Plumbungan", -7.828, 110.378)
 AMBANG_KRITIS = (35.0, 40.0)  # (Suhu Max C, Kelembaban Min %)
